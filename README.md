@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profileImage.png" alt="ProfileImage" width="200">
+  <img src="images/profileImage.png" alt="ProfileImage" width="200">
 </p>
 
 # 📱 Marco Witt – iOS App Portfolio
