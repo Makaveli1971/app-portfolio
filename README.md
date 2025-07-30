@@ -1,7 +1,7 @@
 # 📱 Marco Witt – iOS App Portfolio
 
 Willkommen in meinem öffentlichen App-Portfolio.  
-Hier findest du eine Übersicht meiner iOS-Projekte inklusive Screenshots, Beschreibungen und Technologie-Stacks.
+Hier findest du eine Übersicht meiner aktuellen iOS-Projekte inklusive Screenshots, Beschreibungen und Technologie-Stacks.
 
 ---
 
