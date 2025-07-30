@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profileImage.png" alt="ProfileImage" width="200">
+</p>
+
 # 📱 Marco Witt – iOS App Portfolio
 
 Willkommen in meinem öffentlichen App-Portfolio.  
